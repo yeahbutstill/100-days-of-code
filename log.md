@@ -8,4 +8,15 @@
 
 **Link to work:** Jupyter Notebook: http://localhost:8888/notebooks/Python%20Learning/Python%20For%20Data%20Science%20LiL/Exercise%20Files/Ch01/01_01/01_01.ipynb
 
+### Day 2: June 6, 2018
+
+**Today's Progress**: 2 more exercises on the data science in Python LiL course. Treating/cleansing missing value within pandas series' data frames & removing duplicates in pandas data frames.
+
+**Thoughts:** All good! I need to memorise the syntax for throwing together data frames quickly. Square/curly parentheses placement etc.
+
+**Link to work:** Jupyter Notebook: http://localhost:8889/notebooks/Python%20Learning/Python%20For%20Data%20Science%20LiL/Exercise%20Files/Ch01/01_02/01_02.ipynb
+http://localhost:8889/notebooks/Python%20Learning/Python%20For%20Data%20Science%20LiL/Exercise%20Files/Ch01/01_03/01_03.ipynb
+
+
+
 
